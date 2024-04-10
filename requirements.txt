@@ -1,0 +1,4 @@
+pandas
+tweety
+request
+textblob
